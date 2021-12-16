@@ -1,3 +1,3 @@
 # Bertelsmann
 
-![alt text] (https://udacity-email.s3.us-west-2.amazonaws.com/Bertelsmann_Year_3_Scholarship_Badge.png?bsft_aaid=affd8710-61ff-4001-baca-1d4a7303381d&bsft_eid=7cf72ed9-d236-4432-80ca-4c67d14d1eba&utm_campaign=sch_600_2021-12-10_ndxxx_bertelsmann-year3-winner_global&utm_source=blueshift&utm_medium=email&utm_content=sch_600_2021-12-10_ndxxx_bertelsmann-year3-winner_global&bsft_clkid=c956acea-2ea6-4370-9665-ed92d5b4abc3&bsft_uid=5977e171-cad1-4da1-b265-e164d5066a99&bsft_mid=505287b0-5c23-4ce2-b0c7-92f1f9b818d9&bsft_txnid=bb35144e-3e60-4673-ae86-eb80fb5ceae3&bsft_mime_type=html&bsft_ek=2021-12-10T17%3A32%3A44Z&bsft_lx=5&bsft_tv=30)
+![Bertelsmann_Year_3_Scholarship_Badge](https://user-images.githubusercontent.com/26979168/146428015-8fa6c267-9fe2-44c4-b2de-977f3e9941a4.png)
